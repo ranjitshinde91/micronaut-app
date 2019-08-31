@@ -50,6 +50,8 @@ dependencies {
 
     testRuntime                 "org.junit.jupiter:junit-jupiter-engine:5.1.0"
 
+    runtimeOnly                 "ch.qos.logback:logback-classic:1.2.3"
+
 
 }
 
